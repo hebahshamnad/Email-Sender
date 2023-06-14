@@ -4,7 +4,7 @@ Python Script for Sending Mass Scheduled Emails via Microsoft Office 365
 
 This Python script demonstrates how to send emails using the exchangelib library and Microsoft Office 365. The script utilizes the exchangelib library to establish a connection with the Exchange server, authenticates the sender's credentials, and sends an email in HTML format. With support for HTML templates, you can easily customize the email content and deliver rich, dynamic messages. By reading recipient information from an Excel file, you can efficiently manage and organize your email campaigns. Whether you need to send regular updates, notifications, or newsletters, this script automates the process, saving you time and effort. The script also includes error handling to handle potential exceptions during the email sending process. This code can serve as a starting point for integrating email functionality into Python applications that utilize Microsoft Office 365 as the email service provider.
 
-
+<br />
 Key Features:
 
 * Schedule mass emails to be sent at specific times or intervals
@@ -15,7 +15,7 @@ Key Features:
 
 Note: It is important to configure the schedule and mailing list according to your requirements before running the script.
 
-
+<br />
 Limitations:
 
 * Security Considerations: When using this script, it is essential to consider security aspects. Make sure to keep the sender's email and password confidential and ensure that you are using a secure and trusted server environment to run the script.
